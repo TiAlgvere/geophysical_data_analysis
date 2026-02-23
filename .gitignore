@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+*.slxc
+
+# NetCDF outputs (generated files – keep source data)
+exercises/**/results/*.nc
+exercises/**/results/*.mat
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
